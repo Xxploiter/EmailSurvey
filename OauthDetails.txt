@@ -1,0 +1,4 @@
+{
+    ClientID: 979408178550-muqn0vrfkrvjssvlddveko18lg68isj0.apps.googleusercontent.com,
+    ClientSecret: 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
+}
